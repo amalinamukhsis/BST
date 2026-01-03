@@ -11,7 +11,7 @@ int main()
     createTree(root);
     cout << "How many nodes you want to input? ";
     cin >> nodes;
-    for (i = 0; i < nodes; i++) {
+    for (i = 1; i <= nodes; i++) {
         cout << "Insert node: ";
         cin >> num;
         insertNode(root, createNode(num));
