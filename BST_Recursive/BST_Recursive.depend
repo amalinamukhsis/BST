@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1766685939 source:c:\users\nawra nugroho\cpp\bst_recursive\main.cpp
+	<iostream>
+	"tree.h"
+
+1766688552 c:\users\nawra nugroho\cpp\bst_recursive\tree.h
+
+1766688540 source:c:\users\nawra nugroho\cpp\bst_recursive\tree.cpp
+	<iostream>
+	"tree.h"
+
+1767353529 source:d:\analisis dan kompleksitas algoritma\bst_recursive\main.cpp
+	<iostream>
+	"tree.h"
+
+1767353529 d:\analisis dan kompleksitas algoritma\bst_recursive\tree.h
+
+1767353529 source:d:\analisis dan kompleksitas algoritma\bst_recursive\tree.cpp
+	<iostream>
+	"tree.h"
+

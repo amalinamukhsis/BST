@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1766907031 source:c:\users\nawra nugroho\cpp\bst_iterative\bst.cpp
+	<iostream>
+	"bst.h"
+
+1766765673 c:\users\nawra nugroho\cpp\bst_iterative\bst.h
+
+1766902716 source:c:\users\nawra nugroho\cpp\bst_iterative\main.cpp
+	<iostream>
+	"bst.h"
+
