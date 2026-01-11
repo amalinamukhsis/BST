@@ -9,7 +9,7 @@ This project is a part of final project for Complexity Algorithm Analysis Course
 Binary Search Trees (BST) are fundamental data structures used to store, search, insert, and delete data efficiently. Unlike regular binary search, which operates on sorted arrays, a BST stores data on nodes arranged in a tree where the left child node value is smaller than the parent node value, and the right child node value is bigger than the parent node value. This structure makes a BST efficient and effective to store dynamic data (frequently changed data). This study case will analyse how iterative and recursive algorithms behave when applied to BST operations such as insertion, deletion and search, assuming the existing BST is already ordered according to BST rules. The goal of this study case is to evaluate the computational complexity, execution time and memory usage of iterative and recursive algorithms for various BST sizes and tree shapes. In the end, these findings will help developers choose the most appropriate algorithms for BST when storing and managing data in the database or main memory.
 
 
-### Algorithm Description
+## Algorithm Description
 
 To solve the problem of efficiently managing inventory data, a Binary Search Tree (BST) based algorithm is used to support insertion, searching, and deletion operations. Each inventory item is represented by a unique key value, allowing data to be stored in an ordered structure that enables efficient access and modification.
  
