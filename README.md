@@ -4,12 +4,17 @@
 
 This project is a part of final project for Complexity Algorithm Analysis Course at Telkom University.
 
+
 ## 👥 Profile
 
 Name & Student ID: Nawra Karimah Nugroho (103012440006)
+
 Name & Student ID: Amalina Mukhsis (103012340448)
+
 Class: IF-48-INT
+
 Course: Complexity Algorithm Analysis
+
 
 ## ❓ Problem Description
 
@@ -34,6 +39,7 @@ In general, the big-o notation for binary search trees for every notation are eq
 In the program, the user inputs n nodes, then searches for and deletes one node. The resulting expected graph shows the performance of the entire program, not each operation separately. Because n nodes are inserted while only one node is searched and deleted, insertion is expected to be the most expensive operation.
  
 Overall, the BST-based algorithm is suitable for small to medium-sized inventory systems that require efficient insertion, searching, and deletion operations. The recursive approach offers simplicity and clarity, while the iterative approach improves scalability and performance for larger datasets. The choice between these approaches depends on input size, tree structure, and system resource constraints
+
 
 ## 🔗 Documentation
 
